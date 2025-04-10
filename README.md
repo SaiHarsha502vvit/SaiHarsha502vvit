@@ -66,6 +66,5 @@
 ### 🐍 GitHub Contribution Snake Game
 
 <p align="center">
-  <img src="https://github.com/saiharsha502vvit/saiharsha502vvit/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/saiharsha502vvit/saiharsha502vvit/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
