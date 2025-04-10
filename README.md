@@ -28,7 +28,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sai-harsha-ala" target="blank">
+  <a href="https://www.linkedin.com/in/sai-harsha-ala-370773239/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 </p>
