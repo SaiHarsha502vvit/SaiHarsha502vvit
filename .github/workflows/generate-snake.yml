@@ -1,22 +1,28 @@
-name: Generate Snake
+name: Generate Snake Game 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day
+    - cron: "0 0 * * *" # Every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: saiharsha502vvit
-          outputs: |
-            ./github-contribution-grid-snake.svg
+          svg_out_path: ./github-contribution-grid-snake.svg
 
-      - uses: EndBug/add-and-commit@v9
+      - name: Push snake.svg to repo
+        uses: EndBug/add-and-commit@v9
         with:
+          author_name: GitHub Action
+          author_email: actions@github.com
+          message: "🐍 Update GitHub contribution grid snake"
           add: "./github-contribution-grid-snake.svg"
-          message: "Generated snake contribution graph"
-          default_author: github_actions
