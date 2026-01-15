@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ala Sai Harsha</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer (MERN) from India</h3>
+<h3 align="center">🚀 A passionate Full-Stack Developer from India</h3>
 <p align="center">
   <a href="https://ala-sai-harsha.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=appveyor" alt="Portfolio" />
