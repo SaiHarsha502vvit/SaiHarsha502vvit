@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ala Sai Harsha</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi , I'm Ala Sai Harsha</h1>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 <p align="center">
   <a href="https://ala-sai-harsha.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=appveyor" alt="Portfolio" />
@@ -17,19 +17,19 @@
 
 ---
 
-### 🚧 About Me
+### About Me
 
-- 🔭 I’m currently working on **Building innovative full-stack applications and sharpening my problem-solving skills through data structures and algorithms**
-- 🌱 I’m currently learning **GraphQL, system design principles, and deep-diving into modern DevOps practices.**
-- 👯 I’m looking to collaborate on **Open-source projects, community-driven tech initiatives, and creative React or MERN stack applications.**
-- 🤝 I’m looking for help with **Scaling applications, optimizing performance, and mastering advanced backend and deployment strategies.**
-- 👨‍💻 All of my projects are available at 👉 [github.com/SaiHarsha502vvit](https://github.com/SaiHarsha502vvit/)
-- 💬 Ask me about **React, REST APIs, debugging nightmares I’ve tamed, or how I use design patterns to write clean code.**
-- ⚡ Fun fact: **I love turning complex challenges into simple, elegant solutions—and I’m a sucker for clean UI and smooth animations!**
+- I’m currently working on **Building innovative full-stack applications and sharpening my problem-solving skills through data structures and algorithms**
+- I’m currently learning **GraphQL, system design principles, and deep-diving into modern DevOps practices.**
+- I’m looking to collaborate on **Open-source projects, community-driven tech initiatives, and creative React or MERN stack applications.**
+- I’m looking for help with **Scaling applications, optimizing performance, and mastering advanced backend and deployment strategies.**
+- All of my projects are available at 👉 [github.com/SaiHarsha502vvit](https://github.com/SaiHarsha502vvit/)
+- Ask me about **React, REST APIs, debugging nightmares I’ve tamed, or how I use design patterns to write clean code.**
+- Fun fact: **I love turning complex challenges into simple, elegant solutions—and I’m a sucker for clean UI and smooth animations!**
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sai-harsha-ala-370773239/" target="blank">
@@ -50,24 +50,7 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiharsha502vvit&show_icons=true&locale=en&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiharsha502vvit&show_icons=true&locale=en&theme=radical" height="180" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiharsha502vvit&theme=radical" height="180" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake Game
+### GitHub Contribution Snake Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saiharsha502vvit/saiharsha502vvit/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
